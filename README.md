@@ -476,7 +476,6 @@ The sandbox provides protections such as:
 - Timeout protection
 - Restricted environment
 - Captured stdout/stderr
-- Memory/CPU restrictions where supported
 
 For example, if a generated solution contains:
 
