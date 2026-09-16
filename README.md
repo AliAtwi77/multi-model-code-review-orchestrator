@@ -42,7 +42,11 @@ The system uses:
 * **Ruff, mypy, and Bandit** for static analysis
 
 ---
+## Video Demo
 
+https://github.com/user-attachments/assets/e85aef2e-38b3-4819-af1d-b6cab8cac145
+
+---
 ## Table of Contents
 
 - [1. Project Objective](#1-project-objective)
